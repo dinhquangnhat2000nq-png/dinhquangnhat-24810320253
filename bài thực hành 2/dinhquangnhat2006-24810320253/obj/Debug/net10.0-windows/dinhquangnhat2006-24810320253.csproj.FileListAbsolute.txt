@@ -1,0 +1,16 @@
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\obj\Debug\net10.0-windows\dinhquangnhat2006_24810320253.Form1.resources
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\obj\Debug\net10.0-windows\dinhquangnhat2006-24810320253.csproj.GenerateResource.cache
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\obj\Debug\net10.0-windows\dinhquangnhat2006-24810320253.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\obj\Debug\net10.0-windows\dinhquangnhat2006-24810320253.AssemblyInfoInputs.cache
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\obj\Debug\net10.0-windows\dinhquangnhat2006-24810320253.AssemblyInfo.cs
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\obj\Debug\net10.0-windows\dinhquangnhat2006-24810320253.csproj.CoreCompileInputs.cache
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\bin\Debug\net10.0-windows\dinhquangnhat2006-24810320253.exe
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\bin\Debug\net10.0-windows\dinhquangnhat2006-24810320253.deps.json
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\bin\Debug\net10.0-windows\dinhquangnhat2006-24810320253.runtimeconfig.json
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\bin\Debug\net10.0-windows\dinhquangnhat2006-24810320253.dll
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\bin\Debug\net10.0-windows\dinhquangnhat2006-24810320253.pdb
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\obj\Debug\net10.0-windows\dinhquangnhat2006-24810320253.dll
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\obj\Debug\net10.0-windows\refint\dinhquangnhat2006-24810320253.dll
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\obj\Debug\net10.0-windows\dinhquangnhat2006-24810320253.pdb
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\obj\Debug\net10.0-windows\dinhquangnhat2006-24810320253.genruntimeconfig.cache
+C:\Users\Quang Nhat\source\repos\dinhquangnhat2006-24810320253\dinhquangnhat2006-24810320253\obj\Debug\net10.0-windows\ref\dinhquangnhat2006-24810320253.dll
