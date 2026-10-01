@@ -1,0 +1,28 @@
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\bin\Debug\net10.0\dinhquangnhat-d19qtanm1.exe
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\bin\Debug\net10.0\dinhquangnhat-d19qtanm1.deps.json
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\bin\Debug\net10.0\dinhquangnhat-d19qtanm1.runtimeconfig.json
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\bin\Debug\net10.0\dinhquangnhat-d19qtanm1.dll
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\bin\Debug\net10.0\dinhquangnhat-d19qtanm1.pdb
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.AssemblyInfoInputs.cache
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.AssemblyInfo.cs
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.csproj.CoreCompileInputs.cache
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.dll
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\refint\dinhquangnhat-d19qtanm1.dll
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.pdb
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.genruntimeconfig.cache
+C:\Users\Quang Nhat\source\repos\dinhquangnhat-d19qtanm1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\ref\dinhquangnhat-d19qtanm1.dll
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\bin\Debug\net10.0\dinhquangnhat-d19qtanm1.exe
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\bin\Debug\net10.0\dinhquangnhat-d19qtanm1.deps.json
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\bin\Debug\net10.0\dinhquangnhat-d19qtanm1.runtimeconfig.json
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\bin\Debug\net10.0\dinhquangnhat-d19qtanm1.dll
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\bin\Debug\net10.0\dinhquangnhat-d19qtanm1.pdb
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.AssemblyInfoInputs.cache
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.AssemblyInfo.cs
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.csproj.CoreCompileInputs.cache
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.dll
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\refint\dinhquangnhat-d19qtanm1.dll
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.pdb
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\dinhquangnhat-d19qtanm1.genruntimeconfig.cache
+C:\Users\Quang Nhat\Downloads\bài tập thực hành 1\dinhquangnhat-d19qtanm1\obj\Debug\net10.0\ref\dinhquangnhat-d19qtanm1.dll

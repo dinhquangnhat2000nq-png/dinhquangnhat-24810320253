@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "dinhquangnhat-d19qtanm1/1.0.0": {
+        "runtime": {
+          "dinhquangnhat-d19qtanm1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dinhquangnhat-d19qtanm1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
